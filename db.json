@@ -1,0 +1,32 @@
+{
+  "ativos": [
+    {
+      "id": "1",
+      "nome": "Câmera Sony Alpha a7 III",
+      "categoria": "Audiovisual",
+      "status": "Disponível",
+      "imagem_url": "/camera.webp"
+    },
+    {
+      "id": "2",
+      "nome": "Sala de Estudos 04 - Biblioteca",
+      "categoria": "Espaço Físico",
+      "status": "Disponível",
+      "imagem_url": "/biblioteca.webp"
+    },
+    {
+      "id": "3",
+      "nome": "Microfone de Lapela Rode Wireless",
+      "categoria": "Audiovisual",
+      "status": "Disponível",
+      "imagem_url": "/mic.webp"
+    },
+    {
+      "id": "4",
+      "nome": "Projetor Epson Sala Multiuso",
+      "categoria": "Equipamento Didático",
+      "status": "Disponível",
+      "imagem_url": "/projetor.webp"
+    }
+  ]
+}
